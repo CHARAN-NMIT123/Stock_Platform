@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StocksexchangeApplication<stocksexchange>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.stocks.stocksexchange.StocksexchangeApplication",
+            "projectName": "stocksexchange",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
